@@ -1,6 +1,6 @@
 Im a radioactive chemical element with the symbol Pu and atomic number 94!
 the plutonium username was reserved by someone else so i take this instead.
-its better anyway. so im a developer of most things. some times i need to config a linux server so i become a devOps,
+its better anyway :/ so im a developer of most things. some times i need to config a linux server and its network so i become a devOps,
 become a AI and IOT developer by making robots for fun or festivals.
 making web sites or programming plcs are other jobs i do. but mainly i develop games and create 3d arts.
 
