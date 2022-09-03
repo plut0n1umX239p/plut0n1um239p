@@ -6,6 +6,6 @@ making web sites or creating apps with .net core are other jobs i do. but mainly
 
 you can contact me by my discord server.
 
-[![OS=ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org) 
-[![OS=Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com) 
-[![OS=Android12](https://img.shields.io/badge/OS-Android12-green?style=flat-square&logo=android)](https://www.android.com/)
+[![os=ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org) 
+[![os=Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com) 
+[![os=Android12](https://img.shields.io/badge/OS-Android12-green?style=flat-square&logo=android)](https://www.android.com/)
