@@ -4,4 +4,4 @@ its better anyway :/ so im a developer of most things. some times i need to conf
 become a AI and IOT developer by making robots for fun or festivals.
 making web sites or creating apps with .net core are other jobs i do. but mainly i develop games and create 3d arts.
 
-you can contact me by my discord server.
+you can contact me by my discord.
